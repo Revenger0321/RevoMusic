@@ -1,0 +1,3 @@
+cd evobot
+refresh
+refresh
